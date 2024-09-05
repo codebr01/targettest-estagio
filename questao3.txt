@@ -1,0 +1,1 @@
+3) Após o fim do loop, o valor de SOMA será 77.

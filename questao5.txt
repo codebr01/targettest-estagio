@@ -1,0 +1,12 @@
+Para resolver esse problema, você pode usar a informação do calor das lâmpadas além de se elas estão acesas ou apagadas.
+
+1. Ligue o PRIMEIRO INTERRUPTOR e deixe-o ligado por alguns minutos. Isso fará com que a lâmpada correspondente aqueça.
+   
+2. Depois de alguns minutos, desligue o PRIMEIRO INTERRUPTOR e ligue o SEGUNDO INTERRUPTOR. Agora você pode ir até a sala das lâmpadas.
+
+3. Na sala das lâmpadas:
+   - A lâmpada que ESTÁ ACESA será controlada pelo SEGUNDO INTERRUPTOR (deixado ligado).
+   - A lâmpada que ESTA APAGADO, MAS QUENTE, será controlada pelo PRIMEIRO INTERRUPTOR (estava ligado por algum tempo e depois foi desligado).
+   - A lâmpada que ESTÁ APAGADA E FRIA será controlada pelo TERCEIRO INTERRUPTOR (nunca ligada).
+
+Com essa estratégia, é possivel identificar qual interruptor controla cada lâmpada com apenas uma ida à sala das lâmpadas.
